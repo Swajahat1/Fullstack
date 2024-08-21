@@ -1,0 +1,20 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav{
+    
+    margin-top: 0%;
+    padding-left: 75%;
+  
+    background-color: rgba(0, 0, 0, 0.062);
+
+}
+.a{
+    color: aliceblue;
+    text-align: end;
+}
+
+.recipes-box{
+    -webkit-box-shadow: 8px 8px 29px 0px rgba(255,206,36,0.5); 
+box-shadow: 8px 8px 29px 0px rgba(255,206,36,0.5);
+}
